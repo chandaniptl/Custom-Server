@@ -5,6 +5,7 @@
 
 
 📝 InspireHub Static Web Server
+
 📁 Project Structure
 
 inspirehub/
